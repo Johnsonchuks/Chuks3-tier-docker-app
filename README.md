@@ -29,4 +29,4 @@ The system follows a standard 3-tier architecture:
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone http://Johnsonchuks/Chuks3-tier-docker-app
+   git clone https://github.com/Johnsonchuks/Chuks3-tier-docker-app.git
