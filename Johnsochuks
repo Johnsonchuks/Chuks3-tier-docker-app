@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#Just learning shell scripting with TechChrush, with Mr-Temi as our tutor
+Chuks='Chuks02'
+Name='this_Techcrush_project'
+
+This is where we come to pass our time
+code Chuks02.sh
+
+
+
+
+echo $Name
+echo $Chuks
+
